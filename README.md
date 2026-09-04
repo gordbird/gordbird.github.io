@@ -2,15 +2,6 @@
 
 A small, dependency-free personal portfolio built with plain HTML and CSS.
 
-## Local preview
-
-From this directory, run a local static server:
-
-```bash
-python3 -m http.server 8000
-```
-
-Then open <http://localhost:8000>.
 
 ## GitHub Pages
 
